@@ -7,3 +7,5 @@ Space: O(1)
 
 ## Method 2 - Using Hashsets
 Using hashsets are more efficient in time compared to Sorting and comparing. Hashsets provide faster inserting and checking if a value already exists. For every element, we check if the set includes the current element. If does, we return True. If not for all elements, we return False.
+Time: O(n)
+Space: O(n)
